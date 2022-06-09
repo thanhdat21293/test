@@ -8,32 +8,32 @@
 {
 "businessdate": "2022-06-02",
 "coin": 5555,
-"total": 100
+"total": 110
 },
 {
 "businessdate": "2022-06-03",
 "coin": 15000,
-"total": 100
+"total": 120
 },
 {
 "businessdate": "2022-06-04",
 "coin": 12345,
-"total": 100
+"total": 400
 },
 {
 "businessdate": "2022-06-05",
 "coin": 500,
-"total": 100
+"total": 160
 },
 {
 "businessdate": "2022-06-06",
 "coin": 669.8888,
-"total": 100
+"total": 220
 },
 {
 "businessdate": "2022-06-07",
 "coin": 1123,
-"total": 100
+"total": 643
 }
 ]
 }
