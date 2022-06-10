@@ -2,38 +2,38 @@
 "data": [
 {
 "businessdate": "2022-06-01",
-"coin": 9000,
-"total": 100
+"coin": 355,
+"total": 200
 },
 {
 "businessdate": "2022-06-02",
-"coin": 5555,
-"total": 110
+"coin": 663,
+"total": 210
 },
 {
 "businessdate": "2022-06-03",
-"coin": 15000,
-"total": 120
+"coin": 666,
+"total": 220
 },
 {
 "businessdate": "2022-06-04",
 "coin": 12345,
-"total": 400
+"total": 120
 },
 {
 "businessdate": "2022-06-05",
 "coin": 500,
-"total": 160
+"total": 60
 },
 {
 "businessdate": "2022-06-06",
 "coin": 669.8888,
-"total": 220
+"total": 20
 },
 {
 "businessdate": "2022-06-07",
-"coin": 1123,
-"total": 643
+"coin": 766,
+"total": 69
 }
 ]
 }
