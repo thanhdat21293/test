@@ -2,8 +2,8 @@
 "data": [
 {
 "businessdate": "2022-06-01",
-"coin": 355,
-"total": 200
+"coin": 10,
+"total": 20
 },
 {
 "businessdate": "2022-06-02",
@@ -17,7 +17,7 @@
 },
 {
 "businessdate": "2022-06-04",
-"coin": 12345,
+"coin": 200,
 "total": 120
 },
 {
@@ -29,11 +29,6 @@
 "businessdate": "2022-06-06",
 "coin": 669.8888,
 "total": 20
-},
-{
-"businessdate": "2022-06-07",
-"coin": 766,
-"total": 69
 }
 ]
 }
